@@ -5,3 +5,12 @@ height: auto;
 display: block;
 margin: auto;
 }
+
+@media( max-width: 600px) {
+  body {
+    background-color: white;
+  }
+}
+#navbar {
+  width: 200px;
+}
